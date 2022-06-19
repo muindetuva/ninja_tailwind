@@ -10,6 +10,9 @@ module.exports = {
           200: "#888885",
         },
       },
+      fontFamily: {
+        body: ["Nunito"],
+      },
     },
   },
   plugins: [],
